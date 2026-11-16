@@ -1,0 +1,427 @@
+JAVASCRIPT CODING QUESTION BANK
+
+Variables, Data Types and Operators
+
+1. Declare variables using var, let and const.
+2. Swap two variables.
+3. Swap two variables without a third variable.
+4. Convert a string into a number.
+5. Convert a number into a string.
+6. Convert a string into a boolean.
+7. Check the data type of different values.
+8. Check whether a variable is undefined.
+9. Check whether a variable is null.
+10. Check whether a value is NaN.
+11. Convert Celsius to Fahrenheit.
+12. Convert Fahrenheit to Celsius.
+13. Calculate simple interest.
+14. Calculate compound interest.
+15. Calculate the area of a circle.
+16. Calculate the area of a rectangle.
+17. Calculate percentage of marks.
+18. Calculate the average of five numbers.
+19. Create a calculator using arithmetic operators.
+20. Build a temperature converter using conditional operators.
+
+Conditions and Switch Statements
+
+21. Check even or odd.
+22. Find the largest of two numbers.
+23. Find the largest of three numbers.
+24. Check positive, negative or zero.
+25. Check voting eligibility.
+26. Calculate grades based on marks.
+27. Check leap year.
+28. Check whether a character is a vowel.
+29. Build a calculator using switch.
+30. Create a day-of-week program.
+31. Create a month-name program.
+32. Check whether a number is divisible by 5 and 11.
+33. Calculate electricity bills using slabs.
+34. Calculate employee bonuses based on salary.
+35. Validate username and password conditions.
+
+Loops and Patterns
+
+36. Print numbers from 1 to 100.
+37. Print numbers from 100 to 1.
+38. Print even numbers from 1 to 100.
+39. Print odd numbers from 1 to 100.
+40. Print multiplication tables.
+41. Find the sum of numbers from 1 to N.
+42. Find factorial using a loop.
+43. Print Fibonacci series.
+44. Reverse a number.
+45. Count digits of a number.
+46. Find the sum of digits.
+47. Find the product of digits.
+48. Check prime number.
+49. Print prime numbers in a range.
+50. Print all factors of a number.
+51. Check palindrome number.
+52. Check Armstrong number.
+53. Print a square pattern.
+54. Print a triangle pattern.
+55. Print an inverted triangle.
+
+String Manipulation
+
+56. Find the length of a string.
+57. Reverse a string.
+58. Check palindrome string.
+59. Count vowels.
+60. Count consonants.
+61. Count uppercase letters.
+62. Count lowercase letters.
+63. Count numbers in a string.
+64. Count special characters.
+65. Count words in a sentence.
+66. Find the first character.
+67. Find the last character.
+68. Find frequency of each character.
+69. Find duplicate characters.
+70. Remove duplicate characters.
+71. Find the first non-repeating character.
+72. Find the first repeating character.
+73. Convert a string into uppercase.
+74. Convert a string into lowercase.
+75. Capitalize every word.
+76. Reverse every word.
+77. Reverse the order of words.
+78. Check whether two strings are anagrams.
+79. Replace a particular character.
+80. Find the longest word in a sentence.
+
+Arrays
+
+81. Create an array and access its elements.
+82. Insert an element at the beginning.
+83. Insert an element at the end.
+84. Remove the first element.
+85. Remove the last element.
+86. Reverse an array.
+87. Find the largest element.
+88. Find the smallest element.
+89. Find the second-largest element.
+90. Calculate the sum of array elements.
+91. Calculate the average.
+92. Find even numbers.
+93. Find odd numbers.
+94. Find positive and negative numbers.
+95. Find duplicate elements.
+96. Remove duplicate elements.
+97. Find the frequency of each element.
+98. Find missing elements.
+99. Merge two arrays.
+100. Find common elements between arrays.
+101. Find unique elements.
+102. Sort an array.
+103. Rotate an array left.
+104. Rotate an array right.
+105. Move zeroes to the end.
+106. Split an array into chunks.
+107. Flatten a nested array.
+108. Find maximum and minimum together.
+109. Find pairs with a given sum.
+110. Remove falsy values from an array.
+
+Array Methods
+
+111. Use map() to double array elements.
+112. Use map() to extract names from objects.
+113. Use filter() to find even numbers.
+114. Use filter() to find employees earning above a salary.
+115. Use reduce() to calculate the sum.
+116. Use reduce() to calculate the product.
+117. Use reduce() to count occurrences.
+118. Use reduce() to group objects.
+119. Use find() to find an employee.
+120. Use findIndex() to find an element.
+121. Use some() to check a condition.
+122. Use every() to validate all elements.
+123. Use includes() to check an element.
+124. Use indexOf() to find an index.
+125. Use slice() to extract elements.
+126. Use splice() to insert elements.
+127. Use sort() to sort numbers.
+128. Use sort() to sort objects by salary.
+129. Use flat() on nested arrays.
+130. Use flatMap() to transform nested data.
+131. Use forEach() to iterate over objects.
+132. Use join() to convert an array into a string.
+133. Use concat() to merge arrays.
+134. Use fill() to initialize array values.
+135. Chain map(), filter() and reduce() together.
+
+Objects
+
+136. Create an object representing an employee.
+137. Access properties using dot notation.
+138. Access properties using bracket notation.
+139. Add new properties dynamically.
+140. Update existing properties.
+141. Delete object properties.
+142. Check whether a property exists.
+143. Get all object keys.
+144. Get all object values.
+145. Get all key-value pairs.
+146. Count the number of properties.
+147. Loop through object properties.
+148. Merge two objects.
+149. Clone an object.
+150. Perform a shallow copy.
+151. Perform a deep copy.
+152. Compare two objects.
+153. Convert an object into an array.
+154. Convert an array into an object.
+155. Find the highest value in an object.
+156. Sort an object by values.
+157. Filter object properties.
+158. Access nested object properties.
+159. Update nested object properties.
+160. Flatten a nested object.
+
+Nested Arrays and Objects
+
+161. Access elements from a 2D array.
+162. Print a matrix.
+163. Calculate the sum of each row.
+164. Calculate the sum of each column.
+165. Find the largest element in a matrix.
+166. Search for an element in a matrix.
+167. Flatten a 2D array.
+168. Flatten a deeply nested array.
+169. Traverse a nested object.
+170. Find a property in a nested object.
+171. Update a deeply nested property.
+172. Convert nested objects into flat objects.
+173. Convert flat objects into nested objects.
+174. Find all values in a nested object.
+175. Count all properties in a nested object.
+
+Functions
+
+176. Create a function to add two numbers.
+177. Create a function to subtract two numbers.
+178. Create a calculator function.
+179. Create a function to check even or odd.
+180. Create a function to reverse a string.
+181. Create a function to calculate factorial.
+182. Create a function with default parameters.
+183. Create a function with rest parameters.
+184. Create a function that accepts an array.
+185. Return an object from a function.
+186. Return an array from a function.
+187. Create an arrow function.
+188. Convert a normal function into an arrow function.
+189. Create a callback function.
+190. Pass a function as an argument.
+191. Return a function from another function.
+192. Create a higher-order function.
+193. Implement function currying.
+194. Implement infinite currying.
+195. Implement function composition.
+196. Implement function chaining.
+197. Implement a recursive function.
+198. Calculate factorial using recursion.
+199. Calculate Fibonacci using recursion.
+200. Create a function that executes only once.
+
+Scope, Closures and this
+
+201. Create a global variable and access it inside a function.
+202. Create local variables inside functions.
+203. Create nested functions.
+204. Create a counter using closures.
+205. Create private variables using closures.
+206. Create a bank account using closures.
+207. Create a function factory.
+208. Create a multiplier using closures.
+209. Implement a memoized function.
+210. Create a closure-based calculator.
+211. Create an object with methods using this.
+212. Create a method that modifies object properties.
+213. Implement method chaining using this.
+214. Create a constructor function.
+215. Implement a reusable object factory.
+
+Map and Set
+
+216. Create a Map and insert elements.
+217. Retrieve values from Map.
+218. Delete elements from Map.
+219. Iterate over Map.
+220. Create a Set.
+221. Remove duplicates using Set.
+222. Find the union of two Sets.
+223. Find the intersection of two Sets.
+224. Find the difference between two Sets.
+225. Count element frequency using Map.
+226. Group data using Map.
+227. Convert Map into an object.
+228. Convert an object into Map.
+229. Implement a simple cache using Map.
+230. Create a lookup system using Map.
+
+Destructuring, Spread and Rest
+
+231. Extract variables from an array using destructuring.
+232. Extract properties from an object.
+233. Swap variables using destructuring.
+234. Use nested destructuring.
+235. Merge arrays using spread.
+236. Merge objects using spread.
+237. Copy an array using spread.
+238. Copy an object using spread.
+239. Create a function using rest parameters.
+240. Build a dynamic function that accepts unlimited arguments.
+
+Promises and Async/Await
+
+241. Create a Promise.
+242. Handle resolve and reject.
+243. Implement Promise chaining.
+244. Convert callbacks into Promises.
+245. Create a sleep function.
+246. Execute API calls sequentially.
+247. Execute API calls in parallel.
+248. Implement Promise.all().
+249. Implement Promise.race().
+250. Implement Promise.allSettled().
+251. Implement Promise.any().
+252. Implement a retry mechanism.
+253. Implement an API timeout.
+254. Implement polling.
+255. Implement request cancellation.
+
+Advanced JavaScript Implementations
+
+256. Implement debounce.
+257. Implement throttle.
+258. Implement custom map().
+259. Implement custom filter().
+260. Implement custom reduce().
+261. Implement custom forEach().
+262. Implement custom bind().
+263. Implement custom call().
+264. Implement custom apply().
+265. Implement deep clone.
+266. Implement deep equality.
+267. Implement Event Emitter.
+268. Implement Pub/Sub.
+269. Implement LRU Cache.
+270. Implement a task scheduler.
+271. Implement custom JSON.stringify().
+272. Implement custom JSON.parse().
+273. Implement a custom Queue.
+274. Implement a custom Stack.
+275. Implement caching with expiration.
+
+Practical Data Manipulation
+
+276. Group employees by department.
+277. Sort employees by salary.
+278. Find the highest-paid employee.
+279. Calculate total salary using reduce().
+280. Filter products by price.
+281. Group products by category.
+282. Calculate total shopping cart price.
+283. Apply discount to cart items.
+284. Calculate GST.
+285. Remove duplicate users by ID.
+286. Merge two API response arrays.
+287. Convert API data into dropdown options.
+288. Implement pagination on an array.
+289. Implement search and filtering.
+290. Implement multi-field sorting.
+
+Advanced Array and Object Utilities
+
+291. Implement groupBy() from scratch.
+292. Implement keyBy() from scratch.
+293. Implement pick() to select object properties.
+294. Implement omit() to exclude object properties.
+295. Implement zip() to combine arrays.
+296. Implement unzip() to separate arrays.
+297. Implement differenceBy().
+298. Implement intersectionBy().
+299. Implement uniqueBy().
+300. Implement immutable nested object updates.
+301. Implement a deep merge of two objects.
+302. Implement a nested object getter using a path.
+303. Implement a nested object setter using a path.
+304. Implement an array comparison utility.
+305. Implement a unique object comparison utility.
+
+Regular Expressions
+
+306. Validate an email address.
+307. Validate a phone number.
+308. Extract numbers from a string.
+309. Extract URLs from text.
+310. Replace multiple spaces using regex.
+311. Validate a password.
+312. Extract dates from text.
+313. Find repeated words.
+314. Mask an email address.
+315. Mask a phone number.
+
+Dates and Time
+
+316. Format a date as DD-MM-YYYY.
+317. Calculate the difference between two dates.
+318. Calculate age from date of birth.
+319. Find the number of days in a month.
+320. Check whether a date is a weekend.
+321. Convert timestamps into readable dates.
+322. Build a countdown timer.
+323. Calculate elapsed time between two timestamps.
+324. Group records by date.
+325. Generate dates for the next 30 days.
+
+Error Handling
+
+326. Create custom error classes.
+327. Implement a validation error handler.
+328. Build a retry mechanism with error handling.
+329. Create a safe JSON parsing function.
+330. Implement a function that handles synchronous and asynchronous errors.
+
+Browser JavaScript and DOM
+
+331. Select elements using querySelector.
+332. Create HTML elements dynamically.
+333. Add and remove CSS classes.
+334. Implement event delegation.
+335. Create a dynamic dropdown.
+336. Implement form validation.
+337. Build a counter using DOM events.
+338. Implement a modal popup.
+339. Implement tabs.
+340. Implement a searchable dropdown.
+341. Store data in localStorage.
+342. Implement a theme switcher.
+343. Implement a shopping cart using DOM.
+344. Implement drag and drop.
+345. Implement a debounced search input.
+
+Browser Storage and API Coding
+
+346. Implement localStorage CRUD operations.
+347. Implement sessionStorage CRUD operations.
+348. Create a JSON-based storage utility.
+349. Implement a Fetch API wrapper.
+350. Implement an API response interceptor pattern.
+351. Build an API pagination client.
+352. Implement API caching.
+353. Implement an API request queue.
+354. Implement an API timeout.
+355. Implement file reading using FileReader.
+
+JavaScript Classes and Modules
+
+356. Create a reusable ES module.
+357. Implement a class for employee management.
+358. Implement inheritance using classes.
+359. Implement getters, setters and static methods.
+360. Create a class-based shopping cart.
