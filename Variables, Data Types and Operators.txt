@@ -1,0 +1,92 @@
+// 1. Declare variables using var, let and const.
+// 2. Swap two variables.
+// 3. Swap two variables without a third variable.
+// 4. Convert a string into a number.
+// 5. Convert a number into a string.
+// 6. Convert a string into a boolean.
+// 7. Check the data type of different values.
+// 8. Check whether a variable is undefined.
+// 9. Check whether a variable is null.
+// 10. Check whether a value is NaN.
+// 11. Convert Celsius to Fahrenheit.
+// 12. Convert Fahrenheit to Celsius.
+// 13. Calculate simple interest.
+
+
+
+// 1=  var name="ankit"
+//  let age=32
+//  const flag=false
+//  console.log(name,age,flag)
+
+
+//2= let a=34;
+// let b=334;
+// [a,b]=[b,a]
+// console.log(b,a)
+
+
+// 3=let a = 10;
+// let b = 20;
+
+// let temp = a;
+// a = b;
+// b = temp;
+
+// console.log(a, b);
+
+
+
+//4= let value="53"
+// let res=Number(value)
+// console.log(res)
+
+//5= let value=34
+// let res=String(value)
+// console.log(typeof(res))
+
+
+// 6=let value="get"
+// let res=Boolean(value)
+// console.log(res);
+
+
+// 7=let val=[34,"ankit",false]
+// for(let i=0;i<=val.length-1;i++){
+//    if(typeof(val[i])==='string'){
+//     console.log("Type is string",val[i])
+//    }else if(typeof(val[i])==='number'){
+//         console.log("Type is number",val[i])
+//    }
+// }
+
+// 8=let x;
+// if(typeof(x)==='undefined'){
+//     console.log(x)
+// }
+
+// 9=let =value=null
+// if(value===null){
+//     console.log("Value is",null)
+// }
+
+
+// 10= let value=34
+//  if(typeof(value)!=='number'){
+//     console.log("Value is not a number",value)
+//  }else{
+//     console.log("it is a number")
+//  }
+
+// 11=F=(C*1.8)+32
+// let Celsius=43
+// console.log((43*1.8)+43)
+
+// 12=let Fahrenheit=43
+// console.log((43-32)/1.8)
+
+// 13=let si=0
+// let p=20000
+// let r=3
+// let t=2
+// console.log((p*r*t)/100)
